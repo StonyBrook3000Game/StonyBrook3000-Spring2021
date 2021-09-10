@@ -1,0 +1,15 @@
+Name: Ishika Soni (issoni)
+Assignment: Textured Campus Building
+Date Submitted: Thursday, March 18, 2021 11:20:19 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+I ended up having many troubles with texturing/coloring so I don't know if you will be able to see it. :( But I tried to build it as identical as I can to the Frey Hall. 
+
+Files:
+	Original filename: frey-hall.blend
+	Filename: Textured Campus Building_issoni_attempt_2021-03-18-23-20-19_frey-hall.blend
+

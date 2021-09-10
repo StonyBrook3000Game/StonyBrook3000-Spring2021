@@ -1,0 +1,13 @@
+# Blender MTL File: 'Textured Animated Character_lee110_attempt_2021-04-02-23-22-00_Art Student.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Art Student Mk2.png

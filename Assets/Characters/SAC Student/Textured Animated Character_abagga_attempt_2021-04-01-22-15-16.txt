@@ -1,0 +1,22 @@
+Name: Amanjeet Bagga (abagga)
+Assignment: Textured Animated Character
+Date Submitted: Thursday, April 1, 2021 10:15:16 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Hi,
+
+My laptop was running around 25 fps when i played the animation so I did 750 frames dancing motion which came out to roughly 31 seconds for me. I also had an issue where the textured paint version only showed when I selected the cube under parented armature and then going into textured paint mode. All aside it was fun doing this project.
+
+Thanks.
+
+Files:
+	Original filename: Goalie_Character_Model_Final.blend1
+	Filename: Textured Animated Character_abagga_attempt_2021-04-01-22-15-16_Goalie_Character_Model_Final.blend1
+
+	Original filename: Goalie_Character_Model_Final.blend
+	Filename: Textured Animated Character_abagga_attempt_2021-04-01-22-15-16_Goalie_Character_Model_Final.blend
+
